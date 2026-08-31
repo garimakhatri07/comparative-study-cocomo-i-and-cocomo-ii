@@ -60,7 +60,7 @@ Looking back, this experience helped us improve our ability to research technica
 
 The complete research paper is available in this repository.
 
-**[📥 Read the Research Paper](./Research_Paper.pdf)**
+**[📥 Read the Research Paper](https://github.com/garimakhatri07/comparative-study-cocomo-i-and-cocomo-ii/blob/main/IJNRD2504159.pdf)**
 
 ## 🛠️ Type of Work
 
